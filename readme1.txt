@@ -6,3 +6,4 @@ try to modify.
 try to delete modify.
 Creating n new branch is quick.
 Add a branch again.
+Creating a new branch is quick&simple.

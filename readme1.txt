@@ -6,5 +6,8 @@ try to modify.
 try to delete modify.
 Creating n new branch is quick.
 Creating a new branch is quick and simple.
+<<<<<<< HEAD
 分支管理策略
-Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1

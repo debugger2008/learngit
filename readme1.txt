@@ -8,6 +8,10 @@ Creating n new branch is quick.
 Creating a new branch is quick and simple.
 <<<<<<< HEAD
 分支管理策略
+<<<<<<< HEAD
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+=======
+--no-ff方式
+>>>>>>> dev

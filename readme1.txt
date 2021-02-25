@@ -1,3 +1,5 @@
+
+![image](https://github.com/debugger2008/learngit/blob/master/Debugger.png)
 git is a distributed version system.
 it is free software.
 Git has a mutable index called stage.
